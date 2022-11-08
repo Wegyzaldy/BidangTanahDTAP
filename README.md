@@ -1,2 +1,2 @@
-# egik
-Peta Persebaran Lokasi Pengisian Air Minum (Toyagama) di Universitas Gadjah Mada.
+# Praktikum Survei Kadastral Kelas A
+Peta bidang tanah DTAP FT UGM
